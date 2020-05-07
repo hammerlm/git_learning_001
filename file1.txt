@@ -1,0 +1,5 @@
+pi@raspberrypi:~/develop/git/learning_git/git_learning_001 $ git log --oneline
+128f1ef (HEAD -> master) file1.txt created
+75bbff5 (origin/master, origin/HEAD) the initial commit: changed the README.md-file
+48456d6 Initial commit
+
